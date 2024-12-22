@@ -1,0 +1,1 @@
+// Middleware to validate JWT token
